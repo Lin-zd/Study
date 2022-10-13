@@ -1,2 +1,2 @@
-# ROS
-ROS学习笔记
+# ROS学习笔记
+仅以此记录ROS学习过程，资料均参考于bilibili赵虚左老师的ROS教程

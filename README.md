@@ -1,6 +1,7 @@
 # 学习库
-1. 记录Python学习过程，资料均参考于bilibili黑马程序员的Python教程
-2. 记录ROS学习过程，资料均参考于bilibili赵虚左老师的ROS教程
+1. Python基本语法学习，bilibili黑马程序员前两阶段 2023.05.13
+2. numpy pandas库 入门学习 莫凡pytohn 2023.05.15
+3. 记录ROS学习过程，资料均参考于bilibili赵虚左老师的ROS教程
 
 相关资料链接如下：
 

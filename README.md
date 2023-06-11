@@ -12,3 +12,5 @@
 【ROS机器人入门】 https://www.bilibili.com/video/BV1Ci4y1L7ZZ/?share_source=copy_web&vd_source=6d81245cd1e9f129f20fe6971fa0ec85
 
 资料：http://www.autolabor.com.cn/book/ROSTutorials/chapter1.html
+
+2023.06.11 MMPretrain作业

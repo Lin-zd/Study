@@ -105,6 +105,8 @@ train_cfg = dict(max_epochs=max_epochs, val_interval=10)
 ```
 
 ```shell
+# 训练
+python tools/train.py balloon_dataset/balloon_rtmdet.py
 # 测试
 python tools/test.py balloon_dataset/balloon_rtmdet.py work_dirs/balloon_rtmdet/best_coco_bbox_mAP_epoch_40.pth
 

@@ -14,3 +14,4 @@
 资料：http://www.autolabor.com.cn/book/ROSTutorials/chapter1.html
 
 2023.06.11 MMPretrain作业  MMDetection作业 完成
+2023.06.18 MMSegmentation作业

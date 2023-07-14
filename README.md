@@ -15,3 +15,5 @@
 
 2023.06.11 MMPretrain作业  MMDetection作业 完成
 2023.06.18 MMSegmentation作业
+
+2023.07.13  data_analysis_python  完成

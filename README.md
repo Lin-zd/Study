@@ -6,13 +6,4 @@
 5. 2023.06.18 MMSegmentation作业
 6. 2023.07.13  data_analysis_python_2nd  完成
 7. 2023.07.31  深度学习入门 完成
-
-相关资料链接如下：
-
-【python】 https://www.bilibili.com/video/BV1qW4y1a7fU/?share_source=copy_web&vd_source=6d81245cd1e9f129f20fe6971fa0ec85
-
-资料：https://pan.baidu.com/s/1bT6s3d7FgrVA28K0F5sptg?pwd=okna 提取码：okna 
-
-【ROS机器人入门】 https://www.bilibili.com/video/BV1Ci4y1L7ZZ/?share_source=copy_web&vd_source=6d81245cd1e9f129f20fe6971fa0ec85
-
-资料：http://www.autolabor.com.cn/book/ROSTutorials/chapter1.html
+8. 2023.09.21  刘二大人Pytorch 完结
